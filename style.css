@@ -1,0 +1,56 @@
+h1 {
+    font-size: 35px;
+    font-weight: 1000px;
+
+    color: #FE5A1D;
+    border-bottom: 10px dotted #8D029B
+}
+
+h2 {
+    font-size: large;
+    font-family: Arial, Helvetica, sans-serif;
+    color: #808080;
+
+    font-weight: bold;
+}
+
+p {
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+
+h3 {
+    font-size: x-large;
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: italic;
+}
+
+ul {
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+
+.email {
+    font-weight: bold;
+    color: #008000;
+}
+
+a {
+
+    color: #FE5A1D;
+}
+
+.tel {
+    font-weight: bold;
+}
+
+#border {
+    background-color: #F5F5F5;
+    padding: 1%;
+    border: 4.5px solid purple;
+
+
+}
+a{
+    color: rgb(179, 0, 255);
+}
